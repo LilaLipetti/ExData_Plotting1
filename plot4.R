@@ -1,3 +1,15 @@
+
+## This code requires data from the UC Irvine Machine Learning Repository.
+## Downlaod “Individual household electric power consumption Data Set” 
+## See https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+
+## Download the archive
+## https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
+## and unzip to same directory than this file
+## This zip should contain household_power_consumption.txt
+
+
+
 ## as I'm runnin different locale settings, I need to change to English
 Sys.setlocale("LC_TIME", "English")
 
